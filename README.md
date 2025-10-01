@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/logywaran/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/logywaran/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/logywaran/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/logywaran/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/logywaran/Leetcode/tree/master/0263-ugly-number) |
 ## Array
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/logywaran/Leetcode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/logywaran/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
