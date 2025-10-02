@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/logywaran/Leetcode/tree/master/0344-reverse-string) |
 | [1899-count-items-matching-a-rule](https://github.com/logywaran/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/logywaran/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0344-reverse-string](https://github.com/logywaran/Leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
