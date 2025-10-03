@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/logywaran/Leetcode/tree/master/0344-reverse-string) |
 | [1899-count-items-matching-a-rule](https://github.com/logywaran/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [3412-permutation-difference-between-two-strings](https://github.com/logywaran/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/logywaran/Leetcode/tree/master/0217-contains-duplicate) |
+| [3412-permutation-difference-between-two-strings](https://github.com/logywaran/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
