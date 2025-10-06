@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/logywaran/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/logywaran/Leetcode/tree/master/0263-ugly-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logywaran/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/logywaran/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Array
 |  |
 | ------- |
