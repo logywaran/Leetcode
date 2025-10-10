@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logywaran/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/logywaran/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1806-count-of-matches-in-tournament](https://github.com/logywaran/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2507-number-of-common-factors](https://github.com/logywaran/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/logywaran/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/logywaran/Leetcode/tree/master/0605-can-place-flowers) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/logywaran/Leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/logywaran/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
