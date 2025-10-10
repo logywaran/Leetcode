@@ -3,10 +3,10 @@ class Solution {
         int n = energy.length;
         int maxEnergy = Integer.MIN_VALUE;
 
-        // Compute from end to start, reuse energy array to store max sum starting at i
+        
         for (int i = n - 1; i >= 0; i--) {
             if (i + k < n) {
-                energy[i] += energy[i + k]; // accumulate sum
+                energy[i] += energy[i + k]; 
             }
             maxEnergy = Math.max(maxEnergy, energy[i]);
         }
