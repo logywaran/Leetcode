@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/logywaran/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/logywaran/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/logywaran/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/logywaran/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/logywaran/Leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/logywaran/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/logywaran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/logywaran/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/logywaran/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/logywaran/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Queue
 |  |
