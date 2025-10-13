@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/logywaran/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/logywaran/Leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/logywaran/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/logywaran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/logywaran/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/logywaran/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/logywaran/Leetcode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/logywaran/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/logywaran/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/logywaran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3412-permutation-difference-between-two-strings](https://github.com/logywaran/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/logywaran/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/logywaran/Leetcode/tree/master/3447-clear-digits) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/logywaran/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/logywaran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/logywaran/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/logywaran/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
