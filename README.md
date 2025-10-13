@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/logywaran/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/logywaran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/logywaran/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logywaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/logywaran/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/logywaran/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## String
@@ -63,17 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/logywaran/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/logywaran/Leetcode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/logywaran/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logywaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/logywaran/Leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/logywaran/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logywaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3412-permutation-difference-between-two-strings](https://github.com/logywaran/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/logywaran/Leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/logywaran/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/logywaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
