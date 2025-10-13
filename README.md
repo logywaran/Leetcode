@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/logywaran/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1806-count-of-matches-in-tournament](https://github.com/logywaran/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/logywaran/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2556-convert-the-temperature](https://github.com/logywaran/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/logywaran/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/logywaran/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## Array
