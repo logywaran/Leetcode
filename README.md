@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/logywaran/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/logywaran/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/logywaran/Leetcode/tree/master/0605-can-place-flowers) |
+| [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logywaran/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/logywaran/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/logywaran/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/logywaran/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/logywaran/Leetcode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/logywaran/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/logywaran/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/logywaran/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/logywaran/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/logywaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3412-permutation-difference-between-two-strings](https://github.com/logywaran/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/logywaran/Leetcode/tree/master/0217-contains-duplicate) |
+| [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/logywaran/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/logywaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
