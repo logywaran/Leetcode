@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/logywaran/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/logywaran/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/logywaran/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/logywaran/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/logywaran/Leetcode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/logywaran/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logywaran/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/logywaran/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/logywaran/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/logywaran/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/logywaran/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/logywaran/Leetcode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/logywaran/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/logywaran/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/logywaran/Leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/logywaran/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/logywaran/Leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/logywaran/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Counting Sort
 |  |
