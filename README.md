@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/logywaran/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logywaran/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/logywaran/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/logywaran/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/logywaran/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2507-number-of-common-factors](https://github.com/logywaran/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/logywaran/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/logywaran/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/logywaran/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/logywaran/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/logywaran/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
