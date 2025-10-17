@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/logywaran/Leetcode/tree/master/0812-rotate-string) |
+| [0851-goat-latin](https://github.com/logywaran/Leetcode/tree/master/0851-goat-latin) |
 | [1764-maximum-repeating-substring](https://github.com/logywaran/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/logywaran/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/logywaran/Leetcode/tree/master/1797-goal-parser-interpretation) |
