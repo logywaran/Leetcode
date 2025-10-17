@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/logywaran/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/logywaran/Leetcode/tree/master/0605-can-place-flowers) |
 | [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0841-shortest-distance-to-a-character](https://github.com/logywaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0948-sort-an-array](https://github.com/logywaran/Leetcode/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/logywaran/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/logywaran/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/logywaran/Leetcode/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/logywaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/logywaran/Leetcode/tree/master/0851-goat-latin) |
 | [1764-maximum-repeating-substring](https://github.com/logywaran/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/logywaran/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/logywaran/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/logywaran/Leetcode/tree/master/0344-reverse-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/logywaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1894-merge-strings-alternately](https://github.com/logywaran/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/logywaran/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
