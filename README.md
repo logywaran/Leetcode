@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/logywaran/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/logywaran/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/logywaran/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/logywaran/Leetcode/tree/master/0520-detect-capital) |
 | [0720-longest-word-in-dictionary](https://github.com/logywaran/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/logywaran/Leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/logywaran/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
