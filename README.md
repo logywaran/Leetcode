@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/logywaran/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/logywaran/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/logywaran/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/logywaran/Leetcode/tree/master/0066-plus-one) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/logywaran/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/logywaran/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/logywaran/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/logywaran/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/logywaran/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/logywaran/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
